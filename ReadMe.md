@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MOZ
 - Mozambique
 - موزامبيق
 - 莫桑比克
