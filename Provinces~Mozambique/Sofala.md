@@ -40,11 +40,18 @@ markerFolder: ./Sofala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Sofala|Sofala]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Sofala.public|Sofala.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Sofala.internal|Sofala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Sofala.protect|Sofala.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Sofala.private|Sofala.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Sofala.personal|Sofala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Sofala.secret|Sofala.secret]] 
+
+### #is_/same_as :: [Sofala](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala.md) 
+
+### #is_/same_as :: [Sofala.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala.public.md) 
+
+### #is_/same_as :: [Sofala.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala.internal.md) 
+
+### #is_/same_as :: [Sofala.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala.protect.md) 
+
+### #is_/same_as :: [Sofala.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala.private.md) 
+
+### #is_/same_as :: [Sofala.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala.personal.md) 
+
+### #is_/same_as :: [Sofala.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Cabo_Delgado/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Cabo_Delgado|Cabo_Delgado]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Cabo_Delgado.public|Cabo_Delgado.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Cabo_Delgado.internal|Cabo_Delgado.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Cabo_Delgado.protect|Cabo_Delgado.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Cabo_Delgado.private|Cabo_Delgado.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Cabo_Delgado.personal|Cabo_Delgado.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Cabo_Delgado.secret|Cabo_Delgado.secret]] 
+
+### #is_/same_as :: [Cabo_Delgado](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.md) 
+
+### #is_/same_as :: [Cabo_Delgado.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.public.md) 
+
+### #is_/same_as :: [Cabo_Delgado.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.internal.md) 
+
+### #is_/same_as :: [Cabo_Delgado.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.protect.md) 
+
+### #is_/same_as :: [Cabo_Delgado.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.private.md) 
+
+### #is_/same_as :: [Cabo_Delgado.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.personal.md) 
+
+### #is_/same_as :: [Cabo_Delgado.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Niassa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Niassa|Niassa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Niassa.public|Niassa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Niassa.internal|Niassa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Niassa.protect|Niassa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Niassa.private|Niassa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Niassa.personal|Niassa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Niassa.secret|Niassa.secret]] 
+
+### #is_/same_as :: [Niassa](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Niassa.md) 
+
+### #is_/same_as :: [Niassa.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Niassa.public.md) 
+
+### #is_/same_as :: [Niassa.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Niassa.internal.md) 
+
+### #is_/same_as :: [Niassa.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Niassa.protect.md) 
+
+### #is_/same_as :: [Niassa.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Niassa.private.md) 
+
+### #is_/same_as :: [Niassa.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Niassa.personal.md) 
+
+### #is_/same_as :: [Niassa.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Niassa.secret.md)
 

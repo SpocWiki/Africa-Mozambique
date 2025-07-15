@@ -129,10 +129,4 @@ Capital :: [[Maputo]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Mozambique|Mozambique]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Mozambique.internal|Mozambique.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Mozambique.protect|Mozambique.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Mozambique.private|Mozambique.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Mozambique.personal|Mozambique.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Mozambique.secret|Mozambique.secret]] 
+

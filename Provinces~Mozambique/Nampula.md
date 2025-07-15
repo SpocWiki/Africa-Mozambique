@@ -40,11 +40,18 @@ markerFolder: ./Nampula/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Nampula|Nampula]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Nampula.public|Nampula.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Nampula.internal|Nampula.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Nampula.protect|Nampula.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Nampula.private|Nampula.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Nampula.personal|Nampula.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Nampula.secret|Nampula.secret]] 
+
+### #is_/same_as :: [Nampula](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.md) 
+
+### #is_/same_as :: [Nampula.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.public.md) 
+
+### #is_/same_as :: [Nampula.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.internal.md) 
+
+### #is_/same_as :: [Nampula.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.protect.md) 
+
+### #is_/same_as :: [Nampula.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.private.md) 
+
+### #is_/same_as :: [Nampula.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.personal.md) 
+
+### #is_/same_as :: [Nampula.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-25.95,32.58333] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/City/Maputo|Maputo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mozambique/City/Maputo.public|Maputo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/City/Maputo.internal|Maputo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/City/Maputo.protect|Maputo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mozambique/City/Maputo.private|Maputo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/City/Maputo.personal|Maputo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/City/Maputo.secret|Maputo.secret]] 
+
+### #is_/same_as :: [Maputo](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.md) 
+
+### #is_/same_as :: [Maputo.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.public.md) 
+
+### #is_/same_as :: [Maputo.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.internal.md) 
+
+### #is_/same_as :: [Maputo.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.protect.md) 
+
+### #is_/same_as :: [Maputo.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.private.md) 
+
+### #is_/same_as :: [Maputo.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.personal.md) 
+
+### #is_/same_as :: [Maputo.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.secret.md)
+

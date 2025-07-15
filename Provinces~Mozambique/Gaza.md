@@ -40,11 +40,18 @@ markerFolder: ./Gaza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Gaza|Gaza]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Gaza.public|Gaza.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Gaza.internal|Gaza.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Gaza.protect|Gaza.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Gaza.private|Gaza.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Gaza.personal|Gaza.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Gaza.secret|Gaza.secret]] 
+
+### #is_/same_as :: [Gaza](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Gaza.md) 
+
+### #is_/same_as :: [Gaza.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Gaza.public.md) 
+
+### #is_/same_as :: [Gaza.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Gaza.internal.md) 
+
+### #is_/same_as :: [Gaza.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Gaza.protect.md) 
+
+### #is_/same_as :: [Gaza.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Gaza.private.md) 
+
+### #is_/same_as :: [Gaza.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Gaza.personal.md) 
+
+### #is_/same_as :: [Gaza.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Gaza.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Tete/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Tete|Tete]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Tete.public|Tete.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Tete.internal|Tete.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Tete.protect|Tete.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Tete.private|Tete.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Tete.personal|Tete.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Tete.secret|Tete.secret]] 
+
+### #is_/same_as :: [Tete](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Tete.md) 
+
+### #is_/same_as :: [Tete.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Tete.public.md) 
+
+### #is_/same_as :: [Tete.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Tete.internal.md) 
+
+### #is_/same_as :: [Tete.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Tete.protect.md) 
+
+### #is_/same_as :: [Tete.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Tete.private.md) 
+
+### #is_/same_as :: [Tete.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Tete.personal.md) 
+
+### #is_/same_as :: [Tete.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Tete.secret.md)
 

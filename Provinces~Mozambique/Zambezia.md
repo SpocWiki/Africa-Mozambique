@@ -40,11 +40,18 @@ markerFolder: ./Zambezia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Zambezia|Zambezia]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Zambezia.public|Zambezia.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Zambezia.internal|Zambezia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Zambezia.protect|Zambezia.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Zambezia.private|Zambezia.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Zambezia.personal|Zambezia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Zambezia.secret|Zambezia.secret]] 
+
+### #is_/same_as :: [Zambezia](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Zambezia.md) 
+
+### #is_/same_as :: [Zambezia.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Zambezia.public.md) 
+
+### #is_/same_as :: [Zambezia.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Zambezia.internal.md) 
+
+### #is_/same_as :: [Zambezia.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Zambezia.protect.md) 
+
+### #is_/same_as :: [Zambezia.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Zambezia.private.md) 
+
+### #is_/same_as :: [Zambezia.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Zambezia.personal.md) 
+
+### #is_/same_as :: [Zambezia.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Zambezia.secret.md)
 

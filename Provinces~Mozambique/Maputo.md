@@ -40,11 +40,18 @@ markerFolder: ./Maputo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Maputo|Maputo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Maputo.public|Maputo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Maputo.internal|Maputo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Maputo.protect|Maputo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Maputo.private|Maputo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Maputo.personal|Maputo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Maputo.secret|Maputo.secret]] 
+
+### #is_/same_as :: [Maputo](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo.md) 
+
+### #is_/same_as :: [Maputo.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo.public.md) 
+
+### #is_/same_as :: [Maputo.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo.internal.md) 
+
+### #is_/same_as :: [Maputo.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo.protect.md) 
+
+### #is_/same_as :: [Maputo.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo.private.md) 
+
+### #is_/same_as :: [Maputo.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo.personal.md) 
+
+### #is_/same_as :: [Maputo.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo.secret.md)
 
