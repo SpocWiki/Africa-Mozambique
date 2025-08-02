@@ -115,7 +115,7 @@ markerFolder: .//
 [Area-Land::784090] 
 Continent :: [[Africa]]  
 [VehicleCode::MOC] 
-Capital :: [[Maputo]]  
+Capital :: [[Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo]]  
 
 ![[Emblem_of_Mozambique.svg|350]] 
 
