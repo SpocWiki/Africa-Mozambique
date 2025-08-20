@@ -1,35 +1,36 @@
 ---
 location:
-- -22.1
-- 33.7917
+  - -22.1
+  - 33.7917
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26976
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Mozambique
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Mozambique
-- موزامبيق
-- 莫桑比克
-- Мозамбик
-- the Republic of Mozambique
-- la República de Mozambique
+  - Mozambique
+  - موزامبيق
+  - 莫桑比克
+  - Мозамбик
+  - the Republic of Mozambique
+  - la República de Mozambique
 Languages:
-- pt-MZ
-- vmw
+  - pt-MZ
+  - vmw
 ---
 
 
