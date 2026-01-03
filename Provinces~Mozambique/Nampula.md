@@ -40,17 +40,17 @@ markerFolder: ./Nampula/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nampula](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula|Nampula]] 
 
-### #is_/same_as :: [Nampula.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.public|Nampula.public]] 
 
-### #is_/same_as :: [Nampula.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.internal|Nampula.internal]] 
 
-### #is_/same_as :: [Nampula.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.protect|Nampula.protect]] 
 
-### #is_/same_as :: [Nampula.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.private|Nampula.private]] 
 
-### #is_/same_as :: [Nampula.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.personal|Nampula.personal]] 
 
-### #is_/same_as :: [Nampula.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Nampula.secret|Nampula.secret]] 
 

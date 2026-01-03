@@ -192,20 +192,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Maputo) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maputo](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo,City|Maputo,City]] 
 
-### #is_/same_as :: [Maputo.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo,City.public|Maputo,City.public]] 
 
-### #is_/same_as :: [Maputo.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo,City.internal|Maputo,City.internal]] 
 
-### #is_/same_as :: [Maputo.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo,City.protect|Maputo,City.protect]] 
 
-### #is_/same_as :: [Maputo.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo,City.private|Maputo,City.private]] 
 
-### #is_/same_as :: [Maputo.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo,City.personal|Maputo,City.personal]] 
 
-### #is_/same_as :: [Maputo.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo/City/Maputo,City.secret|Maputo,City.secret]] 
 

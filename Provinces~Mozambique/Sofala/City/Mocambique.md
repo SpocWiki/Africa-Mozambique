@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mocambique](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique|Mocambique]] 
 
-### #is_/same_as :: [Mocambique.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.public|Mocambique.public]] 
 
-### #is_/same_as :: [Mocambique.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.internal|Mocambique.internal]] 
 
-### #is_/same_as :: [Mocambique.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.protect|Mocambique.protect]] 
 
-### #is_/same_as :: [Mocambique.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.private|Mocambique.private]] 
 
-### #is_/same_as :: [Mocambique.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.personal|Mocambique.personal]] 
 
-### #is_/same_as :: [Mocambique.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Sofala/City/Mocambique.secret|Mocambique.secret]] 
 

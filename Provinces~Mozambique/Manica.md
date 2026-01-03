@@ -40,17 +40,17 @@ markerFolder: ./Manica/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manica](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica|Manica]] 
 
-### #is_/same_as :: [Manica.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.public|Manica.public]] 
 
-### #is_/same_as :: [Manica.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.internal|Manica.internal]] 
 
-### #is_/same_as :: [Manica.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.protect|Manica.protect]] 
 
-### #is_/same_as :: [Manica.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.private|Manica.private]] 
 
-### #is_/same_as :: [Manica.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.personal|Manica.personal]] 
 
-### #is_/same_as :: [Manica.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Manica.secret|Manica.secret]] 
 

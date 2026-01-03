@@ -40,17 +40,17 @@ markerFolder: ./Cabo_Delgado/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cabo_Delgado](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado|Cabo_Delgado]] 
 
-### #is_/same_as :: [Cabo_Delgado.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.public|Cabo_Delgado.public]] 
 
-### #is_/same_as :: [Cabo_Delgado.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.internal|Cabo_Delgado.internal]] 
 
-### #is_/same_as :: [Cabo_Delgado.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.protect|Cabo_Delgado.protect]] 
 
-### #is_/same_as :: [Cabo_Delgado.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.private|Cabo_Delgado.private]] 
 
-### #is_/same_as :: [Cabo_Delgado.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.personal|Cabo_Delgado.personal]] 
 
-### #is_/same_as :: [Cabo_Delgado.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Cabo_Delgado.secret|Cabo_Delgado.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Inhambane/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inhambane](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane|Inhambane]] 
 
-### #is_/same_as :: [Inhambane.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.public|Inhambane.public]] 
 
-### #is_/same_as :: [Inhambane.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.internal|Inhambane.internal]] 
 
-### #is_/same_as :: [Inhambane.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.protect|Inhambane.protect]] 
 
-### #is_/same_as :: [Inhambane.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.private|Inhambane.private]] 
 
-### #is_/same_as :: [Inhambane.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.personal|Inhambane.personal]] 
 
-### #is_/same_as :: [Inhambane.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Inhambane.secret|Inhambane.secret]] 
 

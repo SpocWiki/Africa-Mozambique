@@ -120,3 +120,20 @@ minZoom: 6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zambezi) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mozambique/Zambezi_River|Zambezi_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mozambique/Zambezi_River.public|Zambezi_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mozambique/Zambezi_River.internal|Zambezi_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mozambique/Zambezi_River.protect|Zambezi_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mozambique/Zambezi_River.private|Zambezi_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mozambique/Zambezi_River.personal|Zambezi_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mozambique/Zambezi_River.secret|Zambezi_River.secret]] 
+
