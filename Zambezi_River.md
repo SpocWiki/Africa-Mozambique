@@ -2,53 +2,53 @@
 aliases:
 has_id_wikidata: Q43106
 tributary:
-  - "[[_Standards/WikiData/WD~Kabompo_River,164993]]"
-  - "[[_Standards/WikiData/WD~Cuando_River,182942]]"
-  - "[[_Standards/WikiData/WD~Kafue_River,846063]]"
-  - "[[_Standards/WikiData/WD~Chongwe,1076152]]"
-  - "[[_Standards/WikiData/WD~Luena_River,1178822]]"
-  - "[[_Standards/WikiData/WD~Luangwa_River,1321671]]"
-  - "[[_Standards/WikiData/WD~Sapi_river,1461393]]"
-  - "[[_Standards/WikiData/WD~Gwayi_River,1557811]]"
-  - "[[_Standards/WikiData/WD~Manyame_River,1638278]]"
-  - "[[_Standards/WikiData/WD~Luanginga_River,1784795]]"
-  - "[[_Standards/WikiData/WD~Lungwebungu_River,1877507]]"
-  - "[[_Standards/WikiData/WD~Shire_River,2279579]]"
-  - "[[_Standards/WikiData/WD~Sakeji_River,4790629]]"
-  - "[[_Standards/WikiData/WD~Gairezi_River,20981286]]"
-  - "[[_Standards/WikiData/WD~Revúboé_River,64115486]]"
-  - "[[_Standards/WikiData/WD~Luia_river,67392306]]"
-  - "[[_Standards/WikiData/WD~Q122901684,122901684]]"
-different_from: "[[_Standards/WikiData/WD~Zambezi_Region,473190]]"
-instance_of: "[[_Standards/WikiData/WD~main_stem,573344]]"
+  - "[[_Standards/WikiData/WD~Kabompo_River,164993|WD~Kabompo_River,164993]]"
+  - "[[_Standards/WikiData/WD~Cuando_River,182942|WD~Cuando_River,182942]]"
+  - "[[_Standards/WikiData/WD~Kafue_River,846063|WD~Kafue_River,846063]]"
+  - "[[_Standards/WikiData/WD~Chongwe,1076152|WD~Chongwe,1076152]]"
+  - "[[_Standards/WikiData/WD~Luena_River,1178822|WD~Luena_River,1178822]]"
+  - "[[_Standards/WikiData/WD~Luangwa_River,1321671|WD~Luangwa_River,1321671]]"
+  - "[[_Standards/WikiData/WD~Sapi_river,1461393|WD~Sapi_river,1461393]]"
+  - "[[_Standards/WikiData/WD~Gwayi_River,1557811|WD~Gwayi_River,1557811]]"
+  - "[[_Standards/WikiData/WD~Manyame_River,1638278|WD~Manyame_River,1638278]]"
+  - "[[_Standards/WikiData/WD~Luanginga_River,1784795|WD~Luanginga_River,1784795]]"
+  - "[[_Standards/WikiData/WD~Lungwebungu_River,1877507|WD~Lungwebungu_River,1877507]]"
+  - "[[_Standards/WikiData/WD~Shire_River,2279579|WD~Shire_River,2279579]]"
+  - "[[_Standards/WikiData/WD~Sakeji_River,4790629|WD~Sakeji_River,4790629]]"
+  - "[[_Standards/WikiData/WD~Gairezi_River,20981286|WD~Gairezi_River,20981286]]"
+  - "[[_Standards/WikiData/WD~Revúboé_River,64115486|WD~Revúboé_River,64115486]]"
+  - "[[_Standards/WikiData/WD~Luia_river,67392306|WD~Luia_river,67392306]]"
+  - "[[_Standards/WikiData/WD~Q122901684,122901684|WD~Q122901684,122901684]]"
+different_from: "[[_Standards/WikiData/WD~Zambezi_Region,473190|WD~Zambezi_Region,473190]]"
+instance_of: "[[_Standards/WikiData/WD~main_stem,573344|WD~main_stem,573344]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 lake_on_watercourse:
-  - "[[_Standards/WikiData/WD~Cahora_Bassa_Reservoir,755015]]"
-  - "[[_Standards/WikiData/WD~Kariba_Dam,1367609]]"
-drainage_basin: "[[_Standards/WikiData/WD~Zambezi_Basin,14594747]]"
-adjacent_building: "[[_Standards/WikiData/WD~Old_Drift_Lodge,106978629]]"
+  - "[[_Standards/WikiData/WD~Cahora_Bassa_Reservoir,755015|WD~Cahora_Bassa_Reservoir,755015]]"
+  - "[[_Standards/WikiData/WD~Kariba_Dam,1367609|WD~Kariba_Dam,1367609]]"
+drainage_basin: "[[_Standards/WikiData/WD~Zambezi_Basin,14594747|WD~Zambezi_Basin,14594747]]"
+adjacent_building: "[[_Standards/WikiData/WD~Old_Drift_Lodge,106978629|WD~Old_Drift_Lodge,106978629]]"
 coordinate_location:
   - Point(24.3083 -11.3702)
   - Point(36.470277777 -18.570555555)
-basin_country: "[[_Standards/WikiData/WD~Angola,916]]"
+basin_country: "[[_Standards/WikiData/WD~Angola,916|WD~Angola,916]]"
 country:
-  - "[[_Standards/WikiData/WD~Angola,916]]"
-  - "[[_Standards/WikiData/WD~Zimbabwe,954]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~Namibia,1030]]"
-  - "[[_Standards/WikiData/WD~Mozambique,1029]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+  - "[[_Standards/WikiData/WD~Angola,916|WD~Angola,916]]"
+  - "[[_Standards/WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]]"
+  - "[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]"
+  - "[[_Standards/WikiData/WD~Namibia,1030|WD~Namibia,1030]]"
+  - "[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]"
 discharge: 7000
 watershed_area: 1570000
 elevation_above_sea_level: 329
-has_part_s_: "[[_Standards/WikiData/WD~Victoria_Falls,43278]]"
+has_part_s_: "[[_Standards/WikiData/WD~Victoria_Falls,43278|WD~Victoria_Falls,43278]]"
 length: 2574
 OmegaWiki_Defined_Meaning: "933968"
 U_S_National_Archives_Identifier: "10038572"
@@ -70,21 +70,21 @@ Commons_category: Zambezi
 id: Zambezi_River
 geojsonFolder: ./Zambezi_River/
 geojson:
-- [[../../Africa~Central/Zambia/Provinces~Zambia/Zambia~Southern/River~Zambezi.geoJson]]
-- [[../../Africa~South/Namibia/Regions~Namibia/Caprivi/River~Zambezi7.geoJson]]
-- [[../../Africa~South/Botswana/districts~Botswana/Botswana~North-West/Rivers~North-West/River~Zambezi8.geoJson]]
-- [[../../Africa~South/Angola/Provinces~Angola/Moxico/Rivers~Moxico/River~Zambezi3.geoJson]]
-- [[Provinces~Mozambique/Zambezia/Rivers~Zambezia/River~Zambezi5.geoJson]]
-- [[Provinces~Mozambique/Tete/Rivers~Tete/River~Zambezi1.geoJson]]
-- [[Provinces~Mozambique/Sofala/Rivers~Sofala/River~Zambezi4.geoJson]]
+- [[../../Africa~Central/Zambia/Provinces~Zambia/Zambia~Southern/River~Zambezi.geoJson|River~Zambezi.geoJson]]
+- [[../../Africa~South/Namibia/Regions~Namibia/Caprivi/River~Zambezi7.geoJson|River~Zambezi7.geoJson]]
+- [[../../Africa~South/Botswana/districts~Botswana/Botswana~North-West/Rivers~North-West/River~Zambezi8.geoJson|River~Zambezi8.geoJson]]
+- [[../../Africa~South/Angola/Provinces~Angola/Moxico/Rivers~Moxico/River~Zambezi3.geoJson|River~Zambezi3.geoJson]]
+- [[Provinces~Mozambique/Zambezia/Rivers~Zambezia/River~Zambezi5.geoJson|River~Zambezi5.geoJson]]
+- [[Provinces~Mozambique/Tete/Rivers~Tete/River~Zambezi1.geoJson|River~Zambezi1.geoJson]]
+- [[Provinces~Mozambique/Sofala/Rivers~Sofala/River~Zambezi4.geoJson|River~Zambezi4.geoJson]]
 - [[../../Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western/Rivers~North-Western/River~Zambezi6.geoJson|River~Zambezi6]]
 - [[../../Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western/Rivers~North-Western/River~Zambezi2.geoJson|River~Zambezi2]]
 - [[../../Africa~Central/Zambia/Provinces~Zambia/Lusaka,District/River~Zambezi9.geoJson|River~Zambezi9]]
-- [[Provinces~Mozambique/Manica/Rivers~Manica/River~Zambezi12.geoJson]]
-- [[Provinces~Mozambique/Tete/Rivers~Tete/River~Zambezi10.geoJson]]
-- [[Provinces~Mozambique/Manica/Rivers~Manica/River~Zambezi11.geoJson]]
-- [[Provinces~Mozambique/Manica/Rivers~Manica/River~Zambezi12.geoJson]]
-- [[Provinces~Mozambique/Sofala/Rivers~Sofala/River~Zambezi13.geoJson]]
+- [[Provinces~Mozambique/Manica/Rivers~Manica/River~Zambezi12.geoJson|River~Zambezi12.geoJson]]
+- [[Provinces~Mozambique/Tete/Rivers~Tete/River~Zambezi10.geoJson|River~Zambezi10.geoJson]]
+- [[Provinces~Mozambique/Manica/Rivers~Manica/River~Zambezi11.geoJson|River~Zambezi11.geoJson]]
+- [[Provinces~Mozambique/Manica/Rivers~Manica/River~Zambezi12.geoJson|River~Zambezi12.geoJson]]
+- [[Provinces~Mozambique/Sofala/Rivers~Sofala/River~Zambezi13.geoJson|River~Zambezi13.geoJson]]
 
 markerFolder: ./Zambezi_River/
 coordinates: [[Zambezi_River]] 
