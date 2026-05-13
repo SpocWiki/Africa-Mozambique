@@ -39,7 +39,7 @@ geojsonFolder: ./Gaza,Province/
 markerFolder: ./Gaza,Province/
 coordinates: [[Gaza,Province]] 
 markerFile: [[Gaza,Province]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
