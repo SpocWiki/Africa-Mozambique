@@ -772,7 +772,7 @@ dv_UNTERM_Chinese_Formal: 莫桑比克共和国
 dv_UNTERM_French_Formal: la République du Mozambique
 dv_UNTERM_Russian: Мозамбик
 dv_UNTERM_Russian_Formal: Республика Мозамбик
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -799,8 +799,8 @@ dv_ISO2: MZ
 dv_ISO3: MOZ
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
-  - '[[../../../../WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
+  - '[[../../../../../WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
+  - '[[../../../../../WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~East/Mozambique|Mozambique]]'
   - '[[/_public/Earth/Continent/Africa/Africa~East/Mozambique.public|Mozambique.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~East/Mozambique.internal|Mozambique.internal]]'
@@ -811,18 +811,18 @@ dv_is_:
 dv_has_name_de: Mozambique
 dv_Area-Total: 799380
 dv_Area-Land: 784090
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: MOC
 dv_Alcohol-l: 2.4
 dv_Language-Id: 467
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 33.7917
 dv_has_place_latitude: -22.1
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Mozambique
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
-- '[[../../../../WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
+- '[[../../../../../WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
+- '[[../../../../../WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~East/Mozambique|Mozambique]]'
 - '[[/_public/Earth/Continent/Africa/Africa~East/Mozambique.public|Mozambique.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~East/Mozambique.internal|Mozambique.internal]]'
@@ -838,7 +838,7 @@ Unicode_character: 🇲🇿
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Earth/Continent/Africa/Africa~East/Mozambique/ReadMe|ReadMe]] 
+[[../Earth/Continent/Africa/Africa~East/Mozambique/ReadMe|ReadMe]] 
 
 ## #has_/properties 
 
@@ -927,7 +927,7 @@ markerFile: [[Mozambique]]
 
 ```leaflet
 id: Mozambique_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -951,11 +951,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo|Maputo]]  
+Capital :: [[../Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo|Maputo]]  
 
 ![[Emblem_of_Mozambique.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Mozambique.mp3|Anthem-Mozambique.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Mozambique.mp3|Anthem-Mozambique.mp3]]
 
 ![[Flag_of_Mozambique.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
